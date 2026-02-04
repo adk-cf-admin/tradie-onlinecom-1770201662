@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://tradie-online.com/
+Sitemap: https://tradie-online.com/sitemap.xml

@@ -1,0 +1,19 @@
+{
+  "name": "TradieBET",
+  "short_name": "TradieBET",
+  "theme_color": "",
+  "background_color": "#202020",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770200988-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
